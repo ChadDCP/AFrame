@@ -7,6 +7,7 @@ Je suis donc partie sur un Motion Design projeté par un projecteur pour donner 
 
 ![Frame 3](https://github.com/ChadDCP/AFrame/assets/144129076/34022557-800c-4109-ba7e-773c7e76754c)
 
+(Scannez le QR code pour accèder au site puis re-scannez le pour démarer l'expérience)
 
 #### le dérrière qui est une copie du code dans visual code pour montrer que les lignes de codes peuvent permettre de réaliser des choses graphiques :
 
@@ -21,3 +22,5 @@ J'avais aussi eu d'autre idée de carte de visite un peu plu simple mais dans le
 ![Frame 4](https://github.com/ChadDCP/AFrame/assets/144129076/62a106c5-90e4-468b-b47d-9c753d0fe1ff)
 ![Frame 5](https://github.com/ChadDCP/AFrame/assets/144129076/c8df565d-885a-4216-bd08-b4e9fbd0b90e)
 
+Lien de mon site
+https://mmi.unilim.fr/~deschamps60/AFRAME/
