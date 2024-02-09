@@ -14,3 +14,10 @@ Je voulais montrer ma compétence de développement et j'ai donc opté pour les 
 
 
 Pour mon expérience, il faut être en vue oblique, la vue de face vous mettra à 90° en hauteur de l'expérience.
+
+
+
+J'avais aussi eu d'autre idée de carte de visite un peu plu simple mais dans le même esprit
+![Frame 4](https://github.com/ChadDCP/AFrame/assets/144129076/62a106c5-90e4-468b-b47d-9c753d0fe1ff)
+![Frame 5](https://github.com/ChadDCP/AFrame/assets/144129076/c8df565d-885a-4216-bd08-b4e9fbd0b90e)
+
