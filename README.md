@@ -12,6 +12,8 @@ Je voulais montrer ma compétence de développement et j'ai donc opté pour les 
 
 ![image](https://github.com/ChadDCP/AFrame/assets/144129076/fa8946cc-5a61-4ef4-bdc2-b04ed949aa39)
 
+![Frame 3](https://github.com/ChadDCP/AFrame/assets/144129076/34022557-800c-4109-ba7e-773c7e76754c)
+![Frame 2](https://github.com/ChadDCP/AFrame/assets/144129076/1b7c4d61-0c25-41da-9d35-3adab1d57728)
 
 
 Pour mon expérience, il faut être en vue oblique, la vue de face vous mettra à 90° en hauteur de l'expérience.
