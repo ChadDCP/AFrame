@@ -1,1 +1,43 @@
+<html>
 
+<head>
+  <title>First</title>
+  <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+      var video = document.querySelector("#video-src");
+
+      window.addEventListener("click", function (event) {
+        event.stopPropagation();
+        if (video.paused) {
+          video.play();
+        } else {
+          video.pause();
+        }
+      });
+    });
+  </script>
+  <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+</head>
+
+<body style="margin : 0px; overflow: hidden;">
+  <a-scene embedded arjs>
+
+    <a-marker preset='custom' type='pattern' url='./assets/pattern.patt'>
+
+    <a-video id="video-src" autoplay="false" src="./assets/VisitCard.mp4" position="0 2.9 -10.05" rotation="0 180 0" width="12" height="6"></a-video>
+    <a-video id="video-src" autoplay="false" src="./assets/VisitCard.mp4" position="0 2.9 -9.95" rotation="0 0 0" width="12" height="6"></a-video>
+    <a-video id="video-src" autoplay="false" src="./assets/VisitCard.mp4" position="0.05 2.9 -10" rotation="0 90 0" width="12" height="6"></a-video>
+    <a-video id="video-src" autoplay="false" src="./assets/VisitCard.mp4" position="-0.05 2.9 -10" rotation="0 270 0" width="12" height="6"></a-video>
+
+    <a-entity gltf-model="./assets/projector.glb" position="0 -1.7 -10" rotation="0 0 0" scale="0.2 0.2 0.2"></a-entity>
+
+    <a-sky color="#252525"></a-sky>
+  </a-marker>
+  <a-camera position="0 7 10"></a-camera>
+  </a-scene>
+
+</body>
+
+</html>
