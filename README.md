@@ -1,7 +1,7 @@
 # Ma Carte de Visite
 
 Je voulais montrer ma compétence de développement et j'ai donc opté pour les lignes de code du film Matrix qui est associé au développement dans l'imaginaire commun.
-
+Je suis donc partie sur un Motion Design projeté par un projecteur pour donner un effet "hologram" et est fait en sorte que la vidéo puisse être vu en 360° ce qui fait qu'on peut tourner autour et continuait de la regarder en simultané.
 
 #### le devant de ma carte de Visite qui évoque la compétence que je veux montrer :
 
